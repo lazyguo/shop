@@ -1,0 +1,16 @@
+body,
+html,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+  .el-card__header {
+    border: 0;
+  }
+  .el-col {
+    margin: 0;
+  }
+  .el-card {
+    background-color: #f9f9fb;
+  }
